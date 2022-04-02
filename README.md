@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-[](https://github.com/Abubakr2000/Sound-Memory-Game/blob/main/walkthrough1.gif)
+![](https://github.com/Abubakr2000/Sound-Memory-Game/blob/main/walkthrough1.gif)
 ![](https://github.com/Abubakr2000/Sound-Memory-Game/blob/main/walkthrough2.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
