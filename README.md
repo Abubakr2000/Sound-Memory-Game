@@ -55,6 +55,7 @@ For losing case:
 ![Google photos]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
 [Overall, the process was not hard. Initially, it seems somehow confusing to set up a project, and get started in GLITCH IDE. With help of given instructions and browsing Glitch IDE, I overcame my confusion and got familiar with this software. Although completing project with required functionalities was not so hard, adding optional features was somehow challanging. Initially, i could not figure out how to change the regular color game button to an image when clicked. Especially, as uploaded image pixels were different, image didn't show properly in game button. Then, I matched pixles of uploaded image with game button height & width pixels to 250px & 250px. Finally, after that, images showed properly. Moreover, while adding a functionality, which is only losing after 3 mistakes, I did not realize that i did not call "playsequence" function if mistakes did not reach to 3. This was causing a program not to playback the pattern if a gamer makes a mistake. Then, I could find my mistake while doing debugging.] 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
