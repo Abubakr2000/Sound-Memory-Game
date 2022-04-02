@@ -59,10 +59,12 @@ For losing case:
 Overall, the process was not hard. Initially, it seems somehow confusing to set up a project, and get started in GLITCH IDE. With help of given instructions and browsing Glitch IDE, I overcame my confusion and got familiar with this software. Although completing project with required functionalities was not so hard, adding optional features was somehow challanging. Initially, i could not figure out how to change the regular color game button to an image when clicked. Especially, as uploaded image pixels were different, image didn't show properly in game button. Then, I matched pixles of uploaded image with game button height & width pixels to 250px & 250px. Finally, after that, images showed properly. Moreover, while adding a functionality, which is only losing after 3 mistakes, I did not realize that i did not call "playsequence" function if mistakes did not reach to 3. This was causing a program not to playback the pattern if a gamer makes a mistake. Then, I could find my mistake while doing debugging.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+I am really curious about how back-end work on bigger web-application projects that require servers. In this project, we don't need to store any information obtained from users, and we just uploaded our images to cloud of GLitch IDE. How do big web-applications handle big data flow among users? How do they maintain working speed of their application even during extremely big data flow of users? 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+If I had a couple more hours, I would definetely put more time and effort into implementing more features to project. I would add a timer that allows a user to repeat each pattern in a given time, for example from level 1 to 4 user can be given 10-15 seconds to guess. And, I would also add more complex and funnier sound to game buttons. In order to make the game more interesting, I would add difficulty mode like easy, medium and hard. Moreover, I could also offer the user to choose manually how many buttons to play with, and voice level etc. Another important upgrade could be creating score board to track best result, and other types of scores.
 
 
 
