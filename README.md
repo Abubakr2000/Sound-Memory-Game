@@ -67,7 +67,7 @@ For losing case:
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.kapwing.com/videos/6247ec79acf9c8006d59f6ec)
 
 
 ## License
