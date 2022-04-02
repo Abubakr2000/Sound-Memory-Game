@@ -39,10 +39,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
+For winning case:
 ![](https://github.com/Abubakr2000/Sound-Memory-Game/blob/main/walkthrough1.gif)
+
+For losing case:
 ![](https://github.com/Abubakr2000/Sound-Memory-Game/blob/main/walkthrough2.gif)
-![](gif3-link-here)
-![](gif4-link-here)
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
